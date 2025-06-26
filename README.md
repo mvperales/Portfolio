@@ -2,7 +2,7 @@
 # Mario Perales
 
 📞 951-500-3846 | ✉️ mvperales@yahoo.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mario-perales) | [Portfolio](https://yourusername.github.io/your-repo-name/)
+🔗 [Portfolio](https://mvperales.github.io/Portfolio/)
 
 ---
 
