@@ -48,7 +48,7 @@ Designed and implemented a system to automate data entry and validation for prod
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mario-perales) or email me at mvperales@yahoo.com for any inquiries or collaboration opportunities.
+Feel free to reach out to me via email me at mvperales@yahoo.com for any inquiries or collaboration opportunities.
 
 ---
 
